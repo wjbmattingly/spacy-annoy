@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: spacy-annoy
+Version: 0.0.1
+Summary: A Python package integrating Spacy and Annoy for efficient text search and analysis
+Home-page: https://github.com/wjbmattingly/spacy-annoy
+Author: WJB Mattingly
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE

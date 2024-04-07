@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+spacy_annoy/__init__.py
+spacy_annoy/pipeline.py
+spacy_annoy.egg-info/PKG-INFO
+spacy_annoy.egg-info/SOURCES.txt
+spacy_annoy.egg-info/dependency_links.txt
+spacy_annoy.egg-info/requires.txt
+spacy_annoy.egg-info/top_level.txt
